@@ -2,7 +2,6 @@ package com.bragin.AnalogClock;
 
 import android.content.Context;
 import android.graphics.Canvas;
-import android.graphics.Paint;
 import android.view.View;
 import com.bragin.AnalogClock.objects.ClockFace;
 import com.bragin.AnalogClock.objects.HourHand;
